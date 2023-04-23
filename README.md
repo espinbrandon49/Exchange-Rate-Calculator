@@ -1,6 +1,6 @@
 ### Exchange Rate Calculator
 
-A useful application where you want to convert between two specific currencies.
+A useful application for when you want to convert between two specific currencies.
 
 Tools: HTML, CSS, JavaScript
 
@@ -13,7 +13,7 @@ Choose your base currency code and the target currency you'd like to get the exc
 ### Features
 - Fetch exchange rates from API (https://api.exchangerate-api.com)
 - Display the values for both countries
-- Update values on amount change dynamivally
+- Update values on amount change dynamically
 - Swap country rates
 
 ![Alt text](./img/Screenshot.png)
